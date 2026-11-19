@@ -1,0 +1,10 @@
+{
+  "name": "KOBO 볼링 클럽 기록 및 정산",
+  "short_name": "KOBO 볼링",
+  "description": "KOBO 볼링 클럽 정기전 기록, 16레인 배정표, 자동 정산 관리",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#FFFFFF",
+  "theme_color": "#2563EB",
+  "orientation": "portrait"
+}

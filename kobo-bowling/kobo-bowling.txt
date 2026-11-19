@@ -1,0 +1,9 @@
+kobo-bowling/
+├── index.html
+├── package.json
+├── vite.config.js
+├── public/
+│   └── manifest.json
+└── src/
+    ├── main.jsx
+    └── App.jsx   ← 우측 에디터의 BowlingClubApp.jsx 전체 코드 붙여넣기
